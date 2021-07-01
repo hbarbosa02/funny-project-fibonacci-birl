@@ -6,4 +6,4 @@
 
 - 🤔 [Vaniel Silva](https://github.com/vanielf).
 - 🐱‍👤 [Hiran Silva](https://github.com/hbarbosa02).
-- 😎 [Renan Bertoldo](https://www.linkedin.com/in/renan-lucas-bertoldo-8311b7128/).
+- 😎 [Renan Bertoldo](https://github.com/RenBertoldo).
