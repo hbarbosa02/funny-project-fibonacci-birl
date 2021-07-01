@@ -1,0 +1,23 @@
+OH O HOME AI PO (MONSTRO FIBONACCI(MONSTRO A))
+    ELE QUE A GENTE QUER? (A == 0)
+        BORA CUMPADE 0;
+    QUE NAO VAI DAR O QUE? (A == 1)
+        BORA CUMPADE 1;
+    NAO VAI DAR NAO
+        MONSTRO A0 = AJUDA O MALUCO TA DOENTE FIBONACCI(A - 1);
+        MONSTRO A1 = AJUDA O MALUCO TA DOENTE FIBONACCI(A - 2);
+        BORA CUMPADE A0 + A1;
+    BIRL
+BIRL
+HORA DO SHOW
+    MONSTRO A;
+    CE QUER VER ESSA PORRA? ("Entra com um número maior que zero ai cumpade!!\n");
+    QUE QUE CE QUER MONSTRAO? ("%d", &A);
+    ELE QUE A GENTE QUER? (A < 0)
+        CE QUER VER ESSA PORRA? ("Aí não dá po");
+        BORA CUMPADE 0;
+    BIRL
+    MONSTRO RES = AJUDA O MALUCO TA DOENTE FIBONACCI(A);
+    CE QUER VER ESSA PORRA? ("Oh o resultado ai po: %d\n", RES);
+    BORA CUMPADE 0;
+BIRL
